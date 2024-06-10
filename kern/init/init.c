@@ -2,9 +2,7 @@
 #include <lib/types.h>
 #include <lib/monitor.h>
 #include <pmm/MATInit/export.h>
-#include<stdint-gcc.h>
-#include<stdio.h>
-#include<stdlib.h>
+
 
 #define NUM_CHAN     64
 #define TD_STATE_RUN 1
